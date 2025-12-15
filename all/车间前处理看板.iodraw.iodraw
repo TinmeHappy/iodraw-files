@@ -386,7 +386,7 @@
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-152" value="车间出口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="270" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mhljxfeNeiMCCsRkU_Xc-153" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mhljxfeNeiMCCsRkU_Xc-153" value="500" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
