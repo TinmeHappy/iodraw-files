@@ -319,7 +319,7 @@
         </mxCell>
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhljxfeNeiMCCsRkU_Xc-132">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="-745" as="targetPoint" />
+            <mxPoint x="350" y="-745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-132" value="1790" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
