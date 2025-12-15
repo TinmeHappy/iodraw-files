@@ -457,8 +457,8 @@
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-172" value="696" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="753" y="-230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mhljxfeNeiMCCsRkU_Xc-175" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="935" y="-262" width="50" height="30" as="geometry" />
+        <mxCell id="mhljxfeNeiMCCsRkU_Xc-175" value="巧克力对面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-262" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
