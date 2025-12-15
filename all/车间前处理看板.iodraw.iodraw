@@ -406,6 +406,16 @@
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-157" value="DMS门口的看板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="910" y="40" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mhljxfeNeiMCCsRkU_Xc-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhljxfeNeiMCCsRkU_Xc-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhljxfeNeiMCCsRkU_Xc-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhljxfeNeiMCCsRkU_Xc-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-158" value="237" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="40" width="60" height="30" as="geometry" />
         </mxCell>
