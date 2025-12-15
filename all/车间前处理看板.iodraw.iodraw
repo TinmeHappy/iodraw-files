@@ -500,8 +500,8 @@
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-187" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="-1080" width="490" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="mhljxfeNeiMCCsRkU_Xc-188" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="725" y="-692" width="50" height="30" as="geometry" />
+        <mxCell id="mhljxfeNeiMCCsRkU_Xc-188" value="老化门" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-692" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
