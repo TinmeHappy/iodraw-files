@@ -100,11 +100,13 @@
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-56" value="240" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="466" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mhljxfeNeiMCCsRkU_Xc-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhljxfeNeiMCCsRkU_Xc-67" target="mhljxfeNeiMCCsRkU_Xc-17">
+        <mxCell id="mhljxfeNeiMCCsRkU_Xc-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhljxfeNeiMCCsRkU_Xc-67">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="490" y="480" />
               <mxPoint x="480" y="480" />
+              <mxPoint x="480" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
