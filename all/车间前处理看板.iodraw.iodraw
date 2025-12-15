@@ -320,11 +320,8 @@
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-132" value="1790" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="-760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mhljxfeNeiMCCsRkU_Xc-135" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="-630" as="sourcePoint" />
-            <mxPoint x="150" y="-680" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="mhljxfeNeiMCCsRkU_Xc-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mhljxfeNeiMCCsRkU_Xc-132" target="mhljxfeNeiMCCsRkU_Xc-118">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
