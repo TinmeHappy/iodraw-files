@@ -222,7 +222,11 @@
         </mxCell>
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhljxfeNeiMCCsRkU_Xc-105">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="-428" as="targetPoint" />
+            <mxPoint x="320" y="-420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="-428" />
+              <mxPoint x="300" y="-428" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mhljxfeNeiMCCsRkU_Xc-105" value="5730" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
